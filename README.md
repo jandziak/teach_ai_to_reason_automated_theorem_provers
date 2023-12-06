@@ -18,8 +18,7 @@ Resources directory for the automated theorem proving
 - [Duper - automatic proof-producing theorem prover](https://github.com/leanprover-community/duper)
 
 ## DataSets 
-- [ProofNet: Autoformalizing and Formally Proving
-- [Undergraduate-Level Mathematics ](https://arxiv.org/pdf/2302.12433.pdf)
+- [ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics ](https://arxiv.org/pdf/2302.12433.pdf)
 
 ## Conferences 
 - [MISG](https://mathsinindustry.com/)
