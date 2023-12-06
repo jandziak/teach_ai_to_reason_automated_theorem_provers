@@ -1,6 +1,14 @@
 # teach_ai_to_reason_automated_theorem_provers
 Resources directory for the automated theorem proving 
 
+# teach_ai_to_reason_automated_theorem_provers
+Resources directory for the automated theorem proving 
+
+
+
+
+
+
 ## ML models 
 [Premise selection for Lean](https://github.com/BartoszPiotrowski/lean-premise-selection)
 [IBM TRIAL A Deep Reinforcement Learning Approach to First-Order Logic Theorem Proving](https://github.com/IBM/TRAIL)
@@ -26,6 +34,7 @@ Undergraduate-Level Mathematics ](https://arxiv.org/pdf/2302.12433.pdf)
 
 ## Courses
 [Implementing an ATP System](https://www.cs.miami.edu/home/geoff/Courses/CSC749-23F/Assessment/ANLLoop.html)
+[Implementing an ATP System Content](https://www.cs.miami.edu/home/geoff/Courses/CSC749-23F/Content/)
 [Hausdorff School: “Formal Mathematics and Computer-Assisted Proving"](https://www.hsm.uni-bonn.de/events/hsm-schools/formal2023/description/)
 
 ## Publications
@@ -37,3 +46,5 @@ Undergraduate-Level Mathematics ](https://arxiv.org/pdf/2302.12433.pdf)
 ## Institutions 
 [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
 [Hoskinson Center for Formal Mathematics Dietrich College of Humanities and Social Sciences](https://www.cmu.edu/hoskinson/index.html)
+
+
