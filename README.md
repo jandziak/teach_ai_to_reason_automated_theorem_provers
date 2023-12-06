@@ -25,3 +25,9 @@ Undergraduate-Level Mathematics ](https://arxiv.org/pdf/2302.12433.pdf)
 ## Courses
 
 [Implementing an ATP System](https://www.cs.miami.edu/home/geoff/Courses/CSC749-23F/Assessment/ANLLoop.html)
+
+
+## Publications
+
+[Logical Expressiveness of Graph Neural Network
+for Knowledge Graph Reasoning](https://arxiv.org/pdf/2303.12306.pdf)
