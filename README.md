@@ -3,6 +3,7 @@ Resources directory for the automated theorem proving
 
 ## ML models 
 [Premise selection for Lean](https://github.com/BartoszPiotrowski/lean-premise-selection)
+[IBM TRIAL A Deep Reinforcement Learning Approach to First-Order Logic Theorem Proving](https://github.com/IBM/TRAIL)
 ## Systems 
 [Lean online](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/index2.html)
 
