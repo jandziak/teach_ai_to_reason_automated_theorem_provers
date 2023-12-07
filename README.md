@@ -42,5 +42,6 @@ Resources directory for the automated theorem proving
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
 - [Hoskinson Center for Formal Mathematics Dietrich College of Humanities and Social Sciences](https://www.cmu.edu/hoskinson/index.html)
+- [Project Euler](https://projecteuler.net/)
 
 
