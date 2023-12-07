@@ -37,7 +37,8 @@ Resources directory for the automated theorem proving
 - [Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning](https://arxiv.org/pdf/2303.12306.pdf)
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/pdf/2009.03393.pdf)
 - [Journal of Automated Reasoning](https://link.springer.com/journal/10817)
-- [CASC 29 - 2023 Procedings](https://www.tptp.org/CASC/29/Proceedings.pdf) 
+- [CASC 29 - 2023 Procedings](https://www.tptp.org/CASC/29/Proceedings.pdf)
+- [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models](https://leandojo.org/)
 
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
