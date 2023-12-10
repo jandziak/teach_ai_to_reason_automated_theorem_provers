@@ -62,10 +62,20 @@ Resources directory for the automated theorem proving
 - [Towards A Unified View of Answer Calibration for Multi-Step Reasoning](https://arxiv.org/pdf/2311.09101.pdf)
 - [Large Language Model Guided Tree-of-Thought](https://arxiv.org/abs/2305.08291)
 - [Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models](https://arxiv.org/abs/2310.04406)
+- [Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models](https://arxiv.org/abs/2308.10379)
+- [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions](https://arxiv.org/abs/2309.10150)
+- [Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training](https://arxiv.org/abs/2309.17179)
 
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
 - [Hoskinson Center for Formal Mathematics Dietrich College of Humanities and Social Sciences](https://www.cmu.edu/hoskinson/index.html)
 - [Project Euler](https://projecteuler.net/)
+
+## Others 
+- [Thread about Q with interesting sources](https://community.openai.com/t/what-is-q-and-when-we-will-hear-more/521343/30?page=3)
+- [Deep RL copurse](https://spinningup.openai.com/en/latest/)
+- [Deep deterministic policy gradient](https://spinningup.openai.com/en/latest/algorithms/ddpg.html)
+- [AlphaZero-like tree-search learning framework for LLMs](https://github.com/waterhorse1/LLM_Tree_Search)
+- [Deep Deterministic Policy Gradient (DDPG)](https://github.com/mmtmn/ddpg)
 
 
