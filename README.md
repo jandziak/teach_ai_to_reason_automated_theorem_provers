@@ -16,6 +16,7 @@ Resources directory for the automated theorem proving
 - [Z3 Theorem Prover](https://github.com/Z3Prover/z3)
 ## DataSets 
 - [ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics ](https://arxiv.org/pdf/2302.12433.pdf)
+- [PRM800K: A Process Supervision Dataset](https://github.com/openai/prm800k)
 
 ## Conferences 
 - [MISG](https://mathsinindustry.com/)
