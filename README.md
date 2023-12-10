@@ -44,10 +44,15 @@ Resources directory for the automated theorem proving
 - [Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://noambrown.github.io/papers/22-Science-Diplomacy-TR.pdf)
 - [Safe and Nested Subgame Solving for Imperfect-Information Games - Libratus](https://arxiv.org/pdf/1705.02955.pdf)
 - [A* Search Without Expansions: Learning Heuristic Functions with Deep Q-Networks](https://arxiv.org/abs/2102.04518)
-- [https://www.youtube.com/watch?v=Z6E41eXStsU&ab_channel=MatthewBerman](https://arxiv.org/abs/2211.14275)
+- [Solving math word problems with process- and outcome-based feedback](https://arxiv.org/abs/2211.14275)
 - [Let's Verify Step by Step (OpenAI)](https://arxiv.org/abs/2305.20050)
 - [Scaling Relationship on Learning Mathematical Reasoning with Large Language Models](https://arxiv.org/abs/2308.01825)
 - [Let's reward step by step: Step-Level reward model as the Navigators for Reasoning](https://arxiv.org/abs/2310.10080)
+- [Planning with Sequence Models through Iterative Energy Minimization](https://openreview.net/forum?id=cVFD6qE8gnY)
+- [Llemma: An Open Language Model For Mathematics](https://arxiv.org/abs/2310.10631)
+- [Formal Mathematics Statement Curriculum Learning ](https://openreview.net/forum?id=-P7G-8dmSh4)
+- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
+- [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/)
 
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
