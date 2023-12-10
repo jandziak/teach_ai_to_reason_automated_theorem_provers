@@ -9,11 +9,13 @@ Resources directory for the automated theorem proving
 ## ML models 
 - [Premise selection for Lean](https://github.com/BartoszPiotrowski/lean-premise-selection)
 - [IBM TRIAL A Deep Reinforcement Learning Approach to First-Order Logic Theorem Proving](https://github.com/IBM/TRAIL)
+- [Wizard Research](https://wizardlm.github.io/research/)
 
 ## Systems 
 - [Lean online](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/index2.html)
 - [Duper - automatic proof-producing theorem prover](https://github.com/leanprover-community/duper)
 - [Z3 Theorem Prover](https://github.com/Z3Prover/z3)
+
 ## DataSets 
 - [ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics ](https://arxiv.org/pdf/2302.12433.pdf)
 - [PRM800K: A Process Supervision Dataset](https://github.com/openai/prm800k)
