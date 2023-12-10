@@ -47,6 +47,7 @@ Resources directory for the automated theorem proving
 - [https://www.youtube.com/watch?v=Z6E41eXStsU&ab_channel=MatthewBerman](https://arxiv.org/abs/2211.14275)
 - [Let's Verify Step by Step (OpenAI)](https://arxiv.org/abs/2305.20050)
 - [Scaling Relationship on Learning Mathematical Reasoning with Large Language Models](https://arxiv.org/abs/2308.01825)
+- [Let's reward step by step: Step-Level reward model as the Navigators for Reasoning](https://arxiv.org/abs/2310.10080)
 
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
