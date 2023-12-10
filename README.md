@@ -60,6 +60,8 @@ Resources directory for the automated theorem proving
 - [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2308.09583)
 - [https://www.interconnects.ai/p/q-star](https://www.interconnects.ai/p/q-star)
 - [Towards A Unified View of Answer Calibration for Multi-Step Reasoning](https://arxiv.org/pdf/2311.09101.pdf)
+- [Large Language Model Guided Tree-of-Thought](https://arxiv.org/abs/2305.08291)
+- [Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models](https://arxiv.org/abs/2310.04406)
 
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
