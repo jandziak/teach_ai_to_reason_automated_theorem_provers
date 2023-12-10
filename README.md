@@ -55,9 +55,11 @@ Resources directory for the automated theorem proving
 - [Llemma: An Open Language Model For Mathematics](https://arxiv.org/abs/2310.10631)
 - [Formal Mathematics Statement Curriculum Learning ](https://openreview.net/forum?id=-P7G-8dmSh4)
 - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
+- [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/)
 - [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2308.09583)
 - [https://www.interconnects.ai/p/q-star](https://www.interconnects.ai/p/q-star)
+- [Towards A Unified View of Answer Calibration for Multi-Step Reasoning](https://arxiv.org/pdf/2311.09101.pdf)
 
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
