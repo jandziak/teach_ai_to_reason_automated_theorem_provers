@@ -13,7 +13,7 @@ Resources directory for the automated theorem proving
 ## Systems 
 - [Lean online](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/index2.html)
 - [Duper - automatic proof-producing theorem prover](https://github.com/leanprover-community/duper)
-
+- [Z3 Theorem Prover](https://github.com/Z3Prover/z3)
 ## DataSets 
 - [ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics ](https://arxiv.org/pdf/2302.12433.pdf)
 
@@ -27,6 +27,7 @@ Resources directory for the automated theorem proving
 - [AI Mathematical Olympiad](https://aimoprize.com/)
 - [The CADE ATP System Competition (CASC)](https://www.tptp.org/CASC/J12/)
 - [CASC Design](https://www.tptp.org/CASC/29/Design.html)
+- [Grand IMO challenge](https://imo-grand-challenge.github.io/)
 
 ## Courses
 - [Implementing an ATP System](https://www.cs.miami.edu/home/geoff/Courses/CSC749-23F/Assessment/ANLLoop.html)
@@ -39,6 +40,13 @@ Resources directory for the automated theorem proving
 - [Journal of Automated Reasoning](https://link.springer.com/journal/10817)
 - [CASC 29 - 2023 Procedings](https://www.tptp.org/CASC/29/Proceedings.pdf)
 - [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models](https://leandojo.org/)
+- [Gemini: A Family of Highly Capable Multimodal Models](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
+- [Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://noambrown.github.io/papers/22-Science-Diplomacy-TR.pdf)
+- [Safe and Nested Subgame Solving for Imperfect-Information Games - Libratus](https://arxiv.org/pdf/1705.02955.pdf)
+- [A* Search Without Expansions: Learning Heuristic Functions with Deep Q-Networks](https://arxiv.org/abs/2102.04518)
+- [https://www.youtube.com/watch?v=Z6E41eXStsU&ab_channel=MatthewBerman](https://arxiv.org/abs/2211.14275)
+- [Let's Verify Step by Step (OpenAI)](https://arxiv.org/abs/2305.20050)
+- [Scaling Relationship on Learning Mathematical Reasoning with Large Language Models](https://arxiv.org/abs/2308.01825)
 
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
