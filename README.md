@@ -36,6 +36,7 @@ Resources directory for the automated theorem proving
 - [Implementing an ATP System](https://www.cs.miami.edu/home/geoff/Courses/CSC749-23F/Assessment/ANLLoop.html)
 - [Implementing an ATP System Content](https://www.cs.miami.edu/home/geoff/Courses/CSC749-23F/Content/)
 - [Hausdorff School: “Formal Mathematics and Computer-Assisted Proving"](https://www.hsm.uni-bonn.de/events/hsm-schools/formal2023/description/)
+- [Deep Q Learning and Deep Q Networks (DQN) ](https://pythonprogramming.net/deep-q-learning-dqn-reinforcement-learning-python-tutorial/)
 
 ## Publications
 - [Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning](https://arxiv.org/pdf/2303.12306.pdf)
