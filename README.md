@@ -68,6 +68,7 @@ Resources directory for the automated theorem proving
 - [Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training](https://arxiv.org/abs/2309.17179)
 - [HyperTree Proof Search for Neural Theorem Proving](https://arxiv.org/abs/2205.11491)
 - [Medium LangChain 101: Part 2d. Fine-tuning LLMs with Human Feedback](https://pub.towardsai.net/langchain-101-part-2d-fine-tuning-llms-with-human-feedback-57769479d013)
+- [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://arxiv.org/abs/2210.12283)
 
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
