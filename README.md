@@ -66,6 +66,8 @@ Resources directory for the automated theorem proving
 - [Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models](https://arxiv.org/abs/2308.10379)
 - [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions](https://arxiv.org/abs/2309.10150)
 - [Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training](https://arxiv.org/abs/2309.17179)
+- [HyperTree Proof Search for Neural Theorem Proving](https://arxiv.org/abs/2205.11491)
+- [Medium LangChain 101: Part 2d. Fine-tuning LLMs with Human Feedback](https://pub.towardsai.net/langchain-101-part-2d-fine-tuning-llms-with-human-feedback-57769479d013)
 
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
