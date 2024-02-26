@@ -71,6 +71,19 @@ Resources directory for the automated theorem proving
 - [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://arxiv.org/abs/2210.12283)
 - [Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models](https://arxiv.org/pdf/2401.06102.pdf)
 - [Sandra - A Neuro-Symbolic Reasoner Based On Descriptions And Situations](https://arxiv.org/pdf/2402.00591.pdf)
+- [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models - RL ](https://arxiv.org/pdf/2402.03300.pdf)
+- [AGENT AI:  SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION](https://arxiv.org/pdf/2401.03568.pdf)
+- [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
+- [EXPHORMER: Sparse Transformers for Graphs](https://arxiv.org/pdf/2303.06147.pdf)
+
+### Knowledge Representation
+- [MMLKG: Knowledge Graph for Mathematical Defnitions,Statements and Proofs](https://www.nature.com/articles/s41597-023-02681-3)
+- [Neural, symbolic and neural-symbolic reasoning on knowledge graphs](https://www.sciencedirect.com/science/article/pii/S2666651021000061?ref=pdf_download&fr=RR-2&rr=85b877ac989f3d81)
+- [MathGraph: A Knowledge Graph for Automatically Solving Mathematical Exercises](https://luoyuyu.vip/files/dasfaa19-gaokao.pdf)
+- [Math-KG: Construction and Applications of Mathematical Knowledge Graph](https://arxiv.org/pdf/2205.03772.pdf)
+- [Current and Future Challenges in Knowledge Representation and Reasoning](https://arxiv.org/pdf/2308.04161.pdf)
+- [Language is All a Graph Needs](https://arxiv.org/pdf/2308.07134.pdf)
+- [Current and Future Challenges in Knowledge Representation and Reasoning](https://arxiv.org/abs/2308.04161)
 
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
@@ -83,5 +96,6 @@ Resources directory for the automated theorem proving
 - [Deep deterministic policy gradient](https://spinningup.openai.com/en/latest/algorithms/ddpg.html)
 - [AlphaZero-like tree-search learning framework for LLMs](https://github.com/waterhorse1/LLM_Tree_Search)
 - [Deep Deterministic Policy Gradient (DDPG)](https://github.com/mmtmn/ddpg)
+- [Constructing knowledge graphs from text using OpenAI functions](https://bratanic-tomaz.medium.com/constructing-knowledge-graphs-from-text-using-openai-functions-096a6d010c17)
 
 
