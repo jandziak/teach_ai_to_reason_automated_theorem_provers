@@ -75,7 +75,9 @@ Resources directory for the automated theorem proving
 - [AGENT AI:  SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION](https://arxiv.org/pdf/2401.03568.pdf)
 - [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 - [EXPHORMER: Sparse Transformers for Graphs](https://arxiv.org/pdf/2303.06147.pdf)
-
+- [A Neuro-vector-symbolic Architecture for Solving Raven’s Progressive Matrices](https://arxiv.org/pdf/2203.04571.pdf)
+- [An Ensemble Approach for Automated Theorem Proving Based on Efficient Name Invariant Graph Neural Representations](https://arxiv.org/pdf/2305.08676.pdf)
+  
 ### Knowledge Representation
 - [MMLKG: Knowledge Graph for Mathematical Defnitions,Statements and Proofs](https://www.nature.com/articles/s41597-023-02681-3)
 - [Neural, symbolic and neural-symbolic reasoning on knowledge graphs](https://www.sciencedirect.com/science/article/pii/S2666651021000061?ref=pdf_download&fr=RR-2&rr=85b877ac989f3d81)
