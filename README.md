@@ -87,6 +87,12 @@ Resources directory for the automated theorem proving
 - [Language is All a Graph Needs](https://arxiv.org/pdf/2308.07134.pdf)
 - [Current and Future Challenges in Knowledge Representation and Reasoning](https://arxiv.org/abs/2308.04161)
 
+### Agentic 
+- [OS-COPILOT: TOWARDS GENERALIST COMPUTER AGENTS WITH SELF-IMPROVEMENT](https://arxiv.org/pdf/2402.07456.pdf)
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
+- [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/pdf/2305.15334.pdf)
+- [VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291.pdf)
+
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
 - [Hoskinson Center for Formal Mathematics Dietrich College of Humanities and Social Sciences](https://www.cmu.edu/hoskinson/index.html)
