@@ -77,6 +77,12 @@ Resources directory for the automated theorem proving
 - [EXPHORMER: Sparse Transformers for Graphs](https://arxiv.org/pdf/2303.06147.pdf)
 - [A Neuro-vector-symbolic Architecture for Solving Raven’s Progressive Matrices](https://arxiv.org/pdf/2203.04571.pdf)
 - [An Ensemble Approach for Automated Theorem Proving Based on Efficient Name Invariant Graph Neural Representations](https://arxiv.org/pdf/2305.08676.pdf)
+- [DT-Solver: Automated Theorem Proving with Dynamic-Tree Sampling Guided by Proof-level Value Function](https://aclanthology.org/2023.acl-long.706.pdf)
+- [Learning Structure-Aware Representations of Dependent Types](https://arxiv.org/pdf/2402.02104.pdf)
+- [VyZX: Formal Verification of a Graphical Quantum Language](https://arxiv.org/pdf/2311.11571.pdf)
+- [PROOF ARTIFACT CO-TRAINING FOR THEOREM PROVING WITH LANGUAGE MODELS](https://arxiv.org/pdf/2102.06203.pdf)
+- [A bi-directional extensible interface between Lean and Mathematica](https://arxiv.org/pdf/2101.07758.pdf)\
+- [LANGUAGE-AGNOSTIC REPRESENTATION LEARNING OF SOURCE CODE FROM STRUCTURE AND CONTEXT](https://www.researchgate.net/publication/350311805_Language-Agnostic_Representation_Learning_of_Source_Code_from_Structure_and_Context)
   
 ### Knowledge Representation
 - [MMLKG: Knowledge Graph for Mathematical Defnitions,Statements and Proofs](https://www.nature.com/articles/s41597-023-02681-3)
@@ -93,6 +99,10 @@ Resources directory for the automated theorem proving
 - [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/pdf/2305.15334.pdf)
 - [VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291.pdf)
 
+### Lean 4 Visualisation
+- [Proof Visualization for the Lean 4 theorem prover](https://pp.ipd.kit.edu/uploads/publikationen/b%C3%BClow22bachelorarbeit.pdf)
+
+
 ## Institutions 
 - [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
 - [Hoskinson Center for Formal Mathematics Dietrich College of Humanities and Social Sciences](https://www.cmu.edu/hoskinson/index.html)
@@ -105,5 +115,11 @@ Resources directory for the automated theorem proving
 - [AlphaZero-like tree-search learning framework for LLMs](https://github.com/waterhorse1/LLM_Tree_Search)
 - [Deep Deterministic Policy Gradient (DDPG)](https://github.com/mmtmn/ddpg)
 - [Constructing knowledge graphs from text using OpenAI functions](https://bratanic-tomaz.medium.com/constructing-knowledge-graphs-from-text-using-openai-functions-096a6d010c17)
+- [Prague Automated Reasoning Seminar Prague](http://arg.ciirc.cvut.cz/seminar.html)
+- [AI4Reason Scientific Project](http://ai4reason.org/)
+- [Machine Learning for Theorem Prooving](https://leanprover.zulipchat.com/#narrow/stream/219941-Machine-Learning-for-Theorem-Proving)
+- [All Lean Books And Where To Find Them](https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ)
+- [Theorem Proving in Lean](https://leanprover.github.io/tutorial/tutorial.pdf)
+
 
 
