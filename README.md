@@ -122,4 +122,13 @@ Resources directory for the automated theorem proving
 - [Theorem Proving in Lean](https://leanprover.github.io/tutorial/tutorial.pdf)
 
 
-
+#### Papers to sort
+- [Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces](https://arxiv.org/pdf/2402.00789.pdf)
+- [Graph Mamba: Towards Learning on Graphs with State Space Models](https://arxiv.org/pdf/2402.08678.pdf)
+- [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/pdf/2306.02707.pdf)
+- [SymbolicAI: A framework for logic-based approaches combining generative models and solvers](https://arxiv.org/pdf/2402.00854.pdf)
+- [Current and Future Challenges in Knowledge Representation and Reasoning](https://arxiv.org/pdf/2308.04161.pdf)
+- [Logical Reasoning over Natural Language as Knowledge Representation: A Survey](https://arxiv.org/pdf/2303.12023.pdf)
+- [Neural, symbolic and neural-symbolic reasoning on knowledge graphs](https://www.sciencedirect.com/science/article/pii/S2666651021000061?ref=pdf_download&fr=RR-2&rr=85b877ac989f3d81)
+- [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](https://arxiv.org/pdf/2201.12431.pdf)
+  
